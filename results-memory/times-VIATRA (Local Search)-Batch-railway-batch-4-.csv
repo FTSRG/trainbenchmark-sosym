@@ -1,0 +1,3 @@
+Tool,Workload,Description,Model,Run,Phase,Iteration,Time
+VIATRA (Local Search),Batch,,railway-batch-4,1,Read,,379897067
+VIATRA (Local Search),Batch,,railway-batch-4,1,Check,,1291586493

@@ -1,0 +1,2 @@
+Tool,Workload,Description,Model,Memory
+Jena (No Inferencing),Batch,,railway-batch-64,125

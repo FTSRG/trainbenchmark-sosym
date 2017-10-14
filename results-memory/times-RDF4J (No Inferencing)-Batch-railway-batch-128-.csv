@@ -1,0 +1,3 @@
+Tool,Workload,Description,Model,Run,Phase,Iteration,Time
+RDF4J (No Inferencing),Batch,,railway-batch-128,1,Read,,38088309507
+RDF4J (No Inferencing),Batch,,railway-batch-128,1,Check,,359568897447

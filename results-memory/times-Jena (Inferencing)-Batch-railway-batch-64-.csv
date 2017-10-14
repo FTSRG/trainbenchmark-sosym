@@ -1,0 +1,3 @@
+Tool,Workload,Description,Model,Run,Phase,Iteration,Time
+Jena (Inferencing),Batch,,railway-batch-64,1,Read,,4023978010
+Jena (Inferencing),Batch,,railway-batch-64,1,Check,,48777193505

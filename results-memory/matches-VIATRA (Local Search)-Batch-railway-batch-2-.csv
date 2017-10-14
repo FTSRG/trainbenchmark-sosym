@@ -1,0 +1,7 @@
+Tool,Workload,Description,Model,Run,Query,Iteration,Matches
+VIATRA (Local Search),Batch,,railway-batch-2,1,ConnectedSegments,1,0
+VIATRA (Local Search),Batch,,railway-batch-2,1,PosLength,1,0
+VIATRA (Local Search),Batch,,railway-batch-2,1,RouteSensor,1,0
+VIATRA (Local Search),Batch,,railway-batch-2,1,SemaphoreNeighbor,1,0
+VIATRA (Local Search),Batch,,railway-batch-2,1,SwitchSet,1,0
+VIATRA (Local Search),Batch,,railway-batch-2,1,SwitchMonitored,1,0

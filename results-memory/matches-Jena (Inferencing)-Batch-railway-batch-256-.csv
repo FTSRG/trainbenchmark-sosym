@@ -1,0 +1,7 @@
+Tool,Workload,Description,Model,Run,Query,Iteration,Matches
+Jena (Inferencing),Batch,,railway-batch-256,1,ConnectedSegments,1,0
+Jena (Inferencing),Batch,,railway-batch-256,1,PosLength,1,0
+Jena (Inferencing),Batch,,railway-batch-256,1,RouteSensor,1,0
+Jena (Inferencing),Batch,,railway-batch-256,1,SemaphoreNeighbor,1,0
+Jena (Inferencing),Batch,,railway-batch-256,1,SwitchSet,1,0
+Jena (Inferencing),Batch,,railway-batch-256,1,SwitchMonitored,1,0

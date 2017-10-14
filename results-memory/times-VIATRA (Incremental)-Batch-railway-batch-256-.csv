@@ -1,0 +1,3 @@
+Tool,Workload,Description,Model,Run,Phase,Iteration,Time
+VIATRA (Incremental),Batch,,railway-batch-256,1,Read,,299302215068
+VIATRA (Incremental),Batch,,railway-batch-256,1,Check,,591012

@@ -1,0 +1,3 @@
+Tool,Workload,Description,Model,Run,Phase,Iteration,Time
+Eclipse OCL,Batch,,railway-batch-16,1,Read,,873962483
+Eclipse OCL,Batch,,railway-batch-16,1,Check,,13867054977

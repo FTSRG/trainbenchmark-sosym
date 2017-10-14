@@ -1,0 +1,2 @@
+Tool,Workload,Description,Model,Memory
+RDF4J (No Inferencing),Batch,,railway-batch-32,75

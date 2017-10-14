@@ -1,0 +1,3 @@
+Tool,Workload,Description,Model,Run,Phase,Iteration,Time
+TinkerGraph,Batch,,railway-batch-2048,1,Read,,111385963850
+TinkerGraph,Batch,,railway-batch-2048,1,Check,,403048880352

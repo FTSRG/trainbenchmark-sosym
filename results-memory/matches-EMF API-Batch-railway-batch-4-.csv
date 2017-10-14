@@ -1,0 +1,7 @@
+Tool,Workload,Description,Model,Run,Query,Iteration,Matches
+EMF API,Batch,,railway-batch-4,1,ConnectedSegments,1,0
+EMF API,Batch,,railway-batch-4,1,PosLength,1,0
+EMF API,Batch,,railway-batch-4,1,RouteSensor,1,0
+EMF API,Batch,,railway-batch-4,1,SemaphoreNeighbor,1,0
+EMF API,Batch,,railway-batch-4,1,SwitchSet,1,0
+EMF API,Batch,,railway-batch-4,1,SwitchMonitored,1,0
